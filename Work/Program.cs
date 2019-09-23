@@ -12,6 +12,7 @@ namespace Work
         {
             Console.WriteLine("Hello, Mark!");
             Console.WriteLine("This is Daniil!");
+            Console.WriteLine("Start project!");
             Console.ReadKey();
         }
     }
